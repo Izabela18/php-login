@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+        padding-bottom: 40px;
+        background-color: #f7f7f7;
+      }
+.container
+{
+ margin-top:80px;
+}
+h2
+{
+ font-family:Arial, Helvetica, sans-serif;
+ color:blue;
+}
+.form-container
+{
+ width:600px;
+ margin:0 auto;
+ background:#669999;
+ padding: 30px;
+
+
+}
+button
+{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size:25px;
+}
+label
+{
+ font-family:Arial, Helvetica, sans-serif;
+ color:blue;
+}
+a
+{
+ text-decoration:underline;
+}
+
+/* home */
+
+.header
+{
+ text-align:center;
+ font-size:20px;
+ color:#cc0000;
+ background:#6600ff;
+ height:70px;
+ width:100%;
+}
+.header a
+{
+ color:blue;
+ font-family:Verdana, Geneva, sans-serif;
+ font-size:20px;
+ text-decoration:none;
+ position:relative;
+ top:15px;
+}
+
+.header .right
+{
+ float:right;
+ position:relative;
+ right:150px;
+}
+.content
+{
+ margin:0 auto;
+ margin-top:100px;
+ text-align:center;
+ font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+ font-size:40px;
+ border: 1px solid green;
+ color:#6600ff;
+}
+.content p
+{
+ font-size:25px;
+ color:#6600ff;
+ width:800px;
+ margin:0 auto;
+}
